@@ -1,0 +1,1 @@
+# Pet-project, simple HTTP (m.b. gRPC also, in future) server w/ Docker
